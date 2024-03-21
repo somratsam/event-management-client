@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Corporate event",
+      "description": "Ut posuere felis arcu tellus tempus in in ultricies. Gravida id nibh ornare viverra. Ultrices faucibus neque velit risus ac id lorem.Ut posuere felis arcu tellus tempus in in ultricies.Ut posuere felis arcu tellus tempus in in ultricies.",
+      "features": [
+        "One day pas access all lecture",
+        "Lunch and Snack",
+        "Meet Event Speaker",
+        "Front Seat",
+        "One day pas access all lecture"
+      ],
+      
+      "image": "https://i.ibb.co/4PPdsLt/Rectangle-5-2.png"
+    },
+    {
+      "id": 2,
+      "name": "Wedding event",
+      "description": "Ut posuere felis arcu tellus tempus in in ultricies. Gravida id nibh ornare viverra. Ultrices faucibus neque velit risus ac id lorem.Ut posuere felis arcu tellus tempus in in ultricies.Ut posuere felis arcu tellus tempus in in ultricies.",
+      "features": [
+        "One day pas access all lecture",
+        "Lunch and Snack",
+        "Meet Event Speaker",
+        "Front Seat",
+        "One day pas access all lecture"
+      ],
+     
+      "image": "https://i.ibb.co/7NMbDxR/istockphoto-499517325-612x612.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Organization event",
+      "description": "Ut posuere felis arcu tellus tempus in in ultricies. Gravida id nibh ornare viverra. Ultrices faucibus neque velit risus ac id lorem.Ut posuere felis arcu tellus tempus in in ultricies.Ut posuere felis arcu tellus tempus in in ultricies.",
+      "features": [
+        "One day pas access all lecture",
+        "Lunch and Snack",
+        "Meet Event Speaker",
+        "Front Seat",
+        "One day pas access all lecture"
+      ],
+      
+      "image": "https://i.ibb.co/KbBHXwB/Rectangle-5-1.png"
+    }
+  ]
+  

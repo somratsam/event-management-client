@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+      "name": "Alice Smith",
+      "image": "https://i.ibb.co/WsgP7nT/User-Thumb.png",
+      "profession": "Graphic Designer",
+      "description": "Lacus vestibulum ultricies mi risus, duis non, volutpat nullam non. Magna congue nisi maecenas elit aliquet eu sed consectetur. Vitae quis cras vitae praesent morbi adipiscing purus consectetur mi."
+    },
+    {
+        "id": 2,
+      "name": "Bob Johnson",
+      "image": "https://i.ibb.co/TcXwvcR/User-Thumb-1.png",
+      "profession": "Chef",
+      "description": "Odio rhoncus ornare ut quam. Molestie vel duis quis scelerisque ut id. In tortor turpis viverra sagittis ultrices nisi, nec tortor. Vestibulum, ultrices ultricies neque, hac ultricies dolor."
+    },
+    {
+        "id": 3,
+      "name": "Emily Chang",
+      "image": "https://i.ibb.co/gVJNq0v/User-Thumb-2.png",
+      "profession": "Data Scientist",
+      "description": "Sagittis nunc egestas leo et malesuada urna risus. Morbi proin et cras aliquam. Diam tellus, amet, hac imperdiet. Tellus mi volutpat tellus, congue malesuada sit nisl donec a."
+    }
+  ]
+  

@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+      "type": "STANDARD",
+      "price": 100,
+      "features": [
+        "Logo design",
+        "Branding materials",
+        "Print and digital media",
+        "Illustrations and icons"
+      ]
+    },
+    {
+        "id": 2,
+      "type": "PREMIUM",
+      "price": 200,
+      "features": [
+        "Logo design",
+        "Branding materials",
+        "Print and digital media",
+        "Illustrations and icons"
+      ]
+    },
+    {
+        "id": 3,
+      "type": "ENTERPRICE",
+      "price": 300,
+      "features": [
+        "Logo design",
+        "Branding materials",
+        "Print and digital media",
+        "Illustrations and icons"
+      ]
+    }
+  ]
+  

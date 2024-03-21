@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Organization Event Tips",
+        "author": "John Doe",
+        "date": "February 10, 2024",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed... "
+    },
+    {
+        "id": 2,
+        "title": "Corporate Event Planning Strategies",
+        "author": "Jane Smith",
+        "date": "February 5, 2024",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed... "
+    },
+    {
+        "id": 3,
+        "title": "Wedding Event Trends",
+        "author": "Alice Johnson",
+        "date": "February 2, 2024",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed... "
+    },
+    {
+        "id": 4,
+        "title": "Creating Memorable Event Experiences",
+        "author": "Michael Brown",
+        "date": "January 28, 2024",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed... "
+    },
+    {
+        "id": 5,
+        "title": "Enhancing Event Website Accessibility",
+        "author": "Emily Davis",
+        "date": "January 20, 2024",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed... "
+    }
+]
